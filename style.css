@@ -1,0 +1,27 @@
+.a {
+  color: rgb(255, 0, 0);
+  font-size: 40px;
+  font-family: "Bebas Neue", cursive;
+}
+.b {
+  color: rgb(60, 255, 0);
+  font-family: "ZCOOL KuaiLe", cursive;
+}
+
+.p {
+  font-size: 21px;
+  color: rgb(0, 17, 255);
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.span {
+  color: rgb(230, 255, 1);
+  font-size: 16px;
+  font-family: "Mukta", sans-serif;
+}
+
+.s {
+  color: rgb(92, 79, 9);
+  font-size: 16px;
+  font-family: "DotGothic16", sans-serif;
+}
